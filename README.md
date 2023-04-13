@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deoac, Shimon Bollinger, Newington CT
+- 👋 Hi, I’m @deoac, Shimon Bollinger, West Hartford CT
 - 👀 I’m interested in learning new languages. Looking for recommendations. Background in the C family (including the Perl cousins).
 - 🌱 I’m currently learning Raku.
 - 📫 deoac.bollinger@gmail.com
